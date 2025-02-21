@@ -13,7 +13,7 @@ const pool = createPool({
 
 
 
-module.export = pool
+module.exports = pool
 
 
 
